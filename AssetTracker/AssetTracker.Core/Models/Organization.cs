@@ -11,7 +11,10 @@ namespace AssetTracker.Core.Models
         public string EmployeeDesignation { get; set; }
 
         public ICollection<OrganizationBranch> OrganizationBranches { get; set; } 
-        // Md. Shirajul Islam 
+
         public string FullAddress { get; set; }
+
+        public string AreaCode { get; set; }
+
     }
 }
