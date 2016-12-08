@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
 namespace AssetTracker.Core.Models
 {
@@ -15,5 +11,7 @@ namespace AssetTracker.Core.Models
         public string EmployeeDesignation { get; set; }
 
         public ICollection<OrganizationBranch> OrganizationBranches { get; set; } 
+        // Md. Shirajul Islam 
+        public string FullAddress { get; set; }
     }
 }
