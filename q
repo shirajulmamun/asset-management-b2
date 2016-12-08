@@ -1,0 +1,39 @@
+[33mcommit 6a311b54d45de4dea4c9d9507189afff0abfa810[m
+Merge: dfd25b0 cf013dc
+Author: shirajul.mamun <shirajul.mamun@gmail.com>
+Date:   Thu Dec 8 23:31:06 2016 +0600
+
+    Merge branch 'master' of https://github.com/shirajulmamun/asset-management-b2
+
+[33mcommit cf013dc7980b696b889a2c8f9d6f4dc11138fb0b[m
+Author: adnanniloy1313@gmail.com <adnanniloy1313@gmail.com>
+Date:   Thu Dec 8 23:24:02 2016 +0600
+
+    <add> Area Code - OrganizationBranch Model </add>
+    q
+    
+    git add --all
+
+[33mcommit dfd25b021172d940c2950d1dc6d3f0686c6805ed[m
+Author: shirajul.mamun <shirajul.mamun@gmail.com>
+Date:   Thu Dec 8 23:15:19 2016 +0600
+
+    <add> EmployeeDesignation - Organization Model
+
+[33mcommit 09f6fe4c98acb03ff0573e4ad0e3a633701d3b16[m
+Author: shirajul.mamun <shirajul.mamun@gmail.com>
+Date:   Thu Dec 8 22:41:33 2016 +0600
+
+    suo file deleted
+
+[33mcommit 185d09aa290871971765c1a759bfec9c353fde49[m
+Author: shirajul.mamun <shirajul.mamun@gmail.com>
+Date:   Thu Dec 8 00:10:48 2016 +0600
+
+    deleted ignored bin and obj from all projects, .gitignore file added to repo
+
+[33mcommit b93daf5bbc3e48bd57886d08ee7915ab9db375ea[m
+Author: shirajul.mamun <shirajul.mamun@gmail.com>
+Date:   Wed Dec 7 23:51:03 2016 +0600
+
+    initial commit
